@@ -25,3 +25,7 @@ Potato_Disease_Project/
 ├── saved_models/       # Model checkpoints
 ├── tarning/            # Jupyter notebooks for model training
 └── frontend/           # React.js web application (To be created)
+
+## 📊 Dataset
+The dataset for this project is publicly available on Kaggle:
+[Potato Leaf Disease Dataset](https://www.kaggle.com/datasets/mdnasimhawlader/potato-leaf-disease-dataset)
